@@ -1,4 +1,4 @@
-[LIVE DEMO](https://cameoparison-clone.vercel.app)
+[LIVE DEMO](https://cameoparison-complete-clone.vercel.app/)
 
 Starter cloned from [cameoparison-starter](https://github.com/Rich-Harris/cameoparison-starter) as Part of the [Svelte Workshop](https://frontendmasters.com/workshops/svelte/) of [Frontend Masters](https://frontendmasters.com/) by [Rich Harris](https://github.com/Rich-Harris).
 
