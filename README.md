@@ -1,3 +1,9 @@
+[LIVE DEMO](https://cameoparison-clone.vercel.app)
+
+Starter cloned from [cameoparison-starter](https://github.com/Rich-Harris/cameoparison-starter) as Part of the [Svelte Workshop](https://frontendmasters.com/workshops/svelte/) of [Frontend Masters](https://frontendmasters.com/) by [Rich Harris](https://github.com/Rich-Harris).
+
+---
+
 _Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)_
 
 ---
